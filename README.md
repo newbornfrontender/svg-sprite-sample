@@ -1,1 +1,1 @@
-# svg-symbol-sample
+# svg-sprite-sample

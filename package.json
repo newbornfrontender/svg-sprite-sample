@@ -1,7 +1,7 @@
 {
-  "name": "svg-symbol-sample",
+  "name": "svg-sprite-sample",
   "version": "1.0.0",
-  "repository": "git@github.com:newbornfrontender/svg-symbol-sample.git",
+  "repository": "git@github.com:newbornfrontender/svg-sprite-sample.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "scripts": {
