@@ -1,6 +1,6 @@
 # svg-sprite-sample
 
-# Install deps
+## Install deps
 
 > yarn
 
